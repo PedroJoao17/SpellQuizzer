@@ -1,0 +1,314 @@
+Qual e o valor de 7^2 + 9^2?;
+100;
+121;
+130;
+145;
+130;
+|
+Qual e o sujeito na frase: "O cachorro latiu durante a noite"?;
+O;
+Cachorro;
+Latiu;
+Durante a noite;
+Cachorro;
+|
+Qual e a raiz quadrada de 196?;
+12;
+14;
+16;
+18;
+14;
+|
+O que e uma metafora?;
+Uma comparacao explicita;
+Uma comparacao implicita;
+Uma repeticao de palavras;
+Uma figura geometrica;
+Uma comparacao implicita;
+|
+Se um numero x dividido por 4 resulta em 8, qual e o valor de x?;
+24;
+28;
+30;
+32;
+32;
+|
+Qual das opcoes apresenta um verbo no preterito perfeito?;
+Correra;
+Falei;
+Dormia;
+Amaria;
+Falei;
+|
+Qual e a fracao equivalente a 0,75?;
+1/2;
+2/3;
+3/4;
+4/5;
+3/4;
+|
+Qual e o plural de "cidadao"?;
+Cidadoes;
+Cidadaos;
+Cidadaes;
+Cidadaas;
+Cidadaos;
+|
+Quanto e 15% de 200?;
+20;
+25;
+30;
+35;
+30;
+|
+Qual e a classe gramatical da palavra "rapidamente"?;
+Substantivo;
+Adjetivo;
+Adverbio;
+Verbo;
+Adverbio;
+|
+Qual e o valor de 3^3?;
+9;
+12;
+27;
+30;
+27;
+|
+Qual e o correto: "Houveram problemas" ou "Houve problemas"?;
+Houveram problemas;
+Houve problemas;
+Ambos estao corretos;
+Nenhum esta correto;
+Houve problemas;
+|
+Se um triangulo possui lados de 5 cm, 5 cm e 8 cm, qual e seu tipo?;
+Equilatero;
+Isosceles;
+Escaleno;
+Retangulo;
+Isosceles;
+|
+O que indica um ponto de exclamacao (!) no final de uma frase?;
+Surpresa, emocao ou ordem;
+Pergunta;
+Citacao;
+Fala direta;
+Surpresa, emocao ou ordem;
+|
+Quanto e 8! (8 fatorial)?;
+40.320;
+20.160;
+10.080;
+5.040;
+40.320;
+|
+Qual e o sinonimo de "efemero"?;
+Eterno;
+Passageiro;
+Duradouro;
+Constante;
+Passageiro;
+|
+Qual a soma dos angulos internos de um hexagono?;
+360°;
+540°;
+720°;
+900°;
+720°;
+|
+Qual e a funcao da preposicao?;
+Unir palavras estabelecendo relacoes de sentido;
+Indicar acao;
+Classificar substantivos;
+Flexionar verbos;
+Unir palavras estabelecendo relacoes de sentido;
+|
+Se um carro percorre 120 km em 2 horas, qual sua velocidade media?;
+40 km/h;
+50 km/h;
+60 km/h;
+70 km/h;
+60 km/h;
+|
+Qual e a diferenca entre "mas" e "mais"?;
+Nao ha diferenca;
+"Mas" indica oposicao e "mais" indica quantidade;
+"Mas" indica quantidade e "mais" indica oposicao;
+"Mais" sempre substitui "porem";
+"Mas" indica oposicao e "mais" indica quantidade;
+|
+Qual e a derivada de f(x) = 5x^2?;
+5x;
+10x;
+15x;
+20x;
+10x;
+|
+Qual frase apresenta um verbo no modo subjuntivo?;
+Espero que voce venha amanha;
+Ele foi ao mercado;
+Nos compramos pao;
+Ela fala muito;
+Espero que voce venha amanha;
+|
+Quanto e 1/4 de 200?;
+25;
+40;
+50;
+75;
+50;
+|
+Qual e o sujeito na oracao: "Fizeram o trabalho com dedicacao"?;
+O trabalho;
+Com dedicacao;
+Fizeram;
+Sujeito indeterminado;
+Sujeito indeterminado;
+|
+Se log2 16 = x, qual e o valor de x?;
+2;
+3;
+4;
+5;
+4;
+|
+Qual das palavras a seguir e um substantivo abstrato?;
+Mesa;
+Cadeira;
+Tristeza;
+Papel;
+Tristeza;
+|
+Quanto e 4 elevado a -2?;
+1/4;
+1/8;
+1/16;
+1/32;
+1/16;
+|
+Qual e o correto: "Ao inves de" ou "Em vez de"?;
+"Ao inves de" sempre;
+"Em vez de" sempre;
+Depende do contexto;
+Nenhuma das opcoes;
+Depende do contexto;
+|
+Qual e a media aritmetica de 10, 20 e 40?;
+20;
+25;
+30;
+35;
+25;
+|
+O que e uma oracao subordinada?;
+Uma oracao que depende de outra para ter sentido completo;
+Uma oracao independente;
+Uma figura de linguagem;
+Uma palavra de ligacao;
+Uma oracao que depende de outra para ter sentido completo;
+|
+Qual e a area de um circulo de raio 7 cm? (Use pi ≈ 3,14);
+100 cm²;
+120 cm²;
+153,86 cm²;
+180 cm²;
+153,86 cm²;
+|
+Se um numero x ao quadrado e 81, qual e o valor de x?;
+7;
+8;
+9;
+10;
+9;
+|
+Qual a soma de todos os angulos internos de um pentagono?;
+360°;
+450°;
+540°;
+600°;
+540°;
+|
+Se um triangulo tem lados 6 cm, 8 cm e 10 cm, ele e um triangulo...;
+Equilatero;
+Isosceles;
+Retangulo;
+Escaleno;
+Retangulo;
+|
+Se f(x) = 3x + 2 e f(4) = y, qual e o valor de y?;
+10;
+12;
+14;
+16;
+14;
+|
+Qual e o determinante da matriz [ [2,3] [4,5] ]?;
+-2;
+-1;
+1;
+2;
+-2;
+|
+Quanto e 2^5?;
+16;
+32;
+64;
+128;
+32;
+|
+Se x + 3 = 10, qual e o valor de x?;
+5;
+6;
+7;
+8;
+7;
+|
+Qual a fracao decimal de 3/8?;
+0,25;
+0,375;
+0,5;
+0,675;
+0,375;
+|
+Qual e o valor de 2^6?;
+32;
+64;
+128;
+256;
+64;
+|
+Qual e o antônimo de "benigno"?;
+Amavel;
+Gentil;
+Maligno;
+Simpatico;
+Maligno;
+|
+Se um triangulo tem dois angulos de 45°, qual e o valor do terceiro angulo?;
+45°;
+60°;
+90°;
+120°;
+90°;
+|
+Qual e o correto: "Se eu ver" ou "Se eu vir"?;
+Se eu ver;
+Se eu vir;
+Ambos estao corretos;
+Nenhum esta correto;
+Se eu vir;
+|
+Quanto e 5! (5 fatorial)?;
+60;
+100;
+120;
+150;
+120;
+|
+Qual e o significado da palavra "apatico"?;
+Cheio de energia;
+Sem interesse ou emocao;
+Muito simpatico;
+Muito teimoso;
+Sem interesse ou emocao;

@@ -1,0 +1,273 @@
+Qual é o maior continente do mundo?;
+África;
+América;
+Ásia;
+Europa;
+Ásia;
+|
+Qual é o país mais populoso do mundo?;
+Índia;
+China;
+Estados Unidos;
+Indonésia;
+China;
+|
+Qual é o maior oceano do mundo?;
+Atlântico;
+Índico;
+Pacífico;
+Ártico;
+Pacífico;
+|
+Qual é a capital do Canadá?;
+Toronto;
+Vancouver;
+Ottawa;
+Montreal;
+Ottawa;
+|
+O Brasil faz fronteira com quantos países?;
+7;
+9;
+10;
+11;
+10;
+|
+Qual é o ponto mais alto do Brasil?;
+Pico da Neblina;
+Pico Paraná;
+Monte Roraima;
+Pico da Bandeira;
+Pico da Neblina;
+|
+Qual é o bioma predominante na região Norte do Brasil?;
+Cerrado;
+Pampa;
+Caatinga;
+Amazônia;
+Amazônia;
+|
+Qual país é atravessado pelo Trópico de Câncer?;
+Brasil;
+México;
+Argentina;
+Austrália;
+México;
+|
+Quantos fusos horários tem o Brasil?;
+2;
+3;
+4;
+5;
+4;
+|
+Qual é a capital da Austrália?;
+Sydney;
+Melbourne;
+Canberra;
+Brisbane;
+Canberra;
+|
+Qual país tem o maior território do mundo?;
+Estados Unidos;
+Canadá;
+China;
+Rússia;
+Rússia;
+|
+Qual deserto é considerado o mais seco do mundo?;
+Saara;
+Kalahari;
+Atacama;
+Gobi;
+Atacama;
+|
+A linha do Equador passa por quantos continentes?;
+2;
+3;
+4;
+5;
+3;
+|
+Qual é o maior rio do mundo em extensão?;
+Amazonas;
+Nilo;
+Mississippi;
+Yangtzé;
+Nilo;
+|
+Qual é a capital da Argentina?;
+Santiago;
+Buenos Aires;
+Lima;
+Montevidéu;
+Buenos Aires;
+|
+A Cordilheira dos Andes está localizada em qual continente?;
+América do Norte;
+África;
+América do Sul;
+Ásia;
+América do Sul;
+|
+Qual é o nome do maior arquipélago do mundo?;
+Havaí;
+Maldivas;
+Indonésia;
+Filipinas;
+Indonésia;
+|
+Qual é o menor país do mundo em território?;
+Mônaco;
+San Marino;
+Vaticano;
+Liechtenstein;
+Vaticano;
+|
+Em que país fica o Deserto do Saara?;
+África do Sul;
+Egito;
+Marrocos;
+Vários países;
+Vários países;
+|
+Qual estado brasileiro tem a maior população?;
+Rio de Janeiro;
+Minas Gerais;
+Bahia;
+São Paulo;
+São Paulo;
+|
+Qual país tem mais ilhas no mundo?;
+Filipinas;
+Indonésia;
+Suécia;
+Japão;
+Suécia;
+|
+Qual é a capital do Japão?;
+Xangai;
+Pequim;
+Seul;
+Tóquio;
+Tóquio;
+|
+Qual é o país com o maior número de fusos horários?;
+Estados Unidos;
+China;
+Rússia;
+França;
+França;
+|
+Qual é o maior estado do Brasil em extensão territorial?;
+Pará;
+Mato Grosso;
+Amazonas;
+Bahia;
+Amazonas;
+|
+Qual é o rio que atravessa a cidade de Londres?;
+Sena;
+Tâmisa;
+Danúbio;
+Reno;
+Tâmisa;
+|
+Qual país é conhecido como "terra dos cangurus"?;
+África do Sul;
+Austrália;
+Nova Zelândia;
+Canadá;
+Austrália;
+|
+A Groenlândia pertence a qual país?;
+Suécia;
+Dinamarca;
+Noruega;
+Canadá;
+Dinamarca;
+|
+Qual é o país mais extenso da América do Sul?;
+Argentina;
+Brasil;
+Chile;
+Colômbia;
+Brasil;
+|
+Qual o nome do fenômeno que aquece as águas do Oceano Pacífico?;
+La Niña;
+El Niño;
+Furacão;
+Maremoto;
+El Niño;
+|
+O Pantanal está localizado em quais estados brasileiros?;
+Mato Grosso e Mato Grosso do Sul;
+Goiás e Tocantins;
+Amazonas e Pará;
+Bahia e Pernambuco;
+Mato Grosso e Mato Grosso do Sul;
+|
+Qual a maior floresta tropical do mundo?;
+Mata Atlântica;
+Floresta Amazônica;
+Floresta Negra;
+Floresta de Bornéu;
+Floresta Amazônica;
+|
+O que é um aquífero?;
+Um lago subterrâneo;
+Uma formação rochosa;
+Um tipo de relevo;
+Um oceano escondido;
+Um lago subterrâneo;
+|
+O Monte Everest está localizado em qual cadeia montanhosa?;
+Alpes;
+Himalaia;
+Andes;
+Montanhas Rochosas;
+Himalaia;
+|
+Qual o clima predominante no sertão nordestino?;
+Tropical úmido;
+Semiárido;
+Equatorial;
+Temperado;
+Semiárido;
+|
+O que é um delta?;
+Uma ilha oceânica;
+Uma foz de rio com ramificações;
+Uma montanha isolada;
+Um tipo de lago;
+Uma foz de rio com ramificações;
+|
+Qual é a capital da Colômbia?;
+Quito;
+Bogotá;
+Caracas;
+Lima;
+Bogotá;
+|
+Qual oceano banha a costa leste do Brasil?;
+Índico;
+Atlântico;
+Pacífico;
+Ártico;
+Atlântico;
+|
+Qual a capital da África do Sul?;
+Pretória;
+Cidade do Cabo;
+Johanesburgo;
+As duas primeiras;
+As duas primeiras;
+|
+A cidade de Dubai está localizada em qual país?;
+Catar;
+Arábia Saudita;
+Emirados Árabes Unidos;
+Omã;
+Emirados Árabes Unidos;
+|

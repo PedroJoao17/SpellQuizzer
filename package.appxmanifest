@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package
+  xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+  xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest"
+  xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
+  IgnorableNamespaces="uap mp">
+
+  <Identity
+    Name="68D54D25-70A3-401B-A187-47E1253F891E"
+    Version="1.0.0.0"
+    Publisher="CN=jp,jeff,ray" />
+
+  <mp:PhoneIdentity PhoneProductId="68D54D25-70A3-401B-A187-47E1253F891E" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+
+  <Properties>
+    <DisplayName>SpellQuizzer</DisplayName>
+    <PublisherDisplayName>jp,jeff,ray</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.0.0" MaxVersionTested="10.0.0.0" />
+  </Dependencies>
+
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+
+  <Applications>
+    <Application
+      Id="pedro"
+      StartPage="index.html">
+
+      <uap:VisualElements
+        DisplayName="SpellQuizzer"
+        Description="Projeto de extensão"
+        BackgroundColor="#464646"
+        Square150x150Logo="images\Logo.png"
+        Square44x44Logo="images\square44logo.png">
+		
+        <uap:SplashScreen Image="images\splashscreen.png" />
+		<uap:InitialRotationPreference><uap:Rotation Preference="landscape" /><uap:Rotation Preference="landscapeFlipped" /></uap:InitialRotationPreference>
+
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+
+</Package>

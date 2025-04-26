@@ -1,0 +1,287 @@
+Qual é a unidade básica da vida?;
+Célula;
+Átomo;
+Tecido;
+Órgão;
+Célula;
+|
+Qual é o símbolo químico da água?;
+H2;
+O2;
+H2O;
+CO2;
+H2O;
+|
+Qual organela é responsável pela produção de energia na célula?;
+Cloroplasto;
+Mitocôndria;
+Ribossomo;
+Núcleo;
+Mitocôndria;
+|
+Qual elemento químico tem o símbolo "Na"?;
+Nitrogênio;
+Sódio;
+Níquel;
+Neônio;
+Sódio;
+|
+Qual molécula carrega as informações genéticas?;
+RNA;
+DNA;
+Proteína;
+Glicose;
+DNA;
+|
+Qual é o elemento mais abundante no universo?;
+Oxigênio;
+Carbono;
+Hidrogênio;
+Ferro;
+Hidrogênio;
+|
+Qual grupo de organismos realiza fotossíntese?;
+Fungos;
+Bactérias;
+Plantas;
+Animais;
+Plantas;
+|
+Que tipo de mistura é a água com açúcar?;
+Heterogênea;
+Coloide;
+Homogênea;
+Suspensão;
+Homogênea;
+|
+Qual sistema do corpo humano transporta oxigênio?;
+Digestório;
+Respiratório;
+Circulatório;
+Nervoso;
+Circulatório;
+|
+Qual substância é responsável pelo sabor azedo do limão?;
+Ácido sulfúrico;
+Ácido clorídrico;
+Ácido cítrico;
+Ácido acético;
+Ácido cítrico;
+|
+Qual é o hormônio responsável pela regulação da glicose no sangue?;
+Adrenalina;
+Insulina;
+Testosterona;
+Tiroxina;
+Insulina;
+|
+O que representa o número atômico de um elemento?;
+Número de elétrons;
+Número de prótons;
+Número de nêutrons;
+Número de moléculas;
+Número de prótons;
+|
+Qual tecido do corpo humano conduz impulsos nervosos?;
+Epitelial;
+Muscular;
+Conjuntivo;
+Nervoso;
+Nervoso;
+|
+O que ocorre na eletrólise da água?;
+Formação de sal;
+Produção de gás hidrogênio e oxigênio;
+Geração de calor;
+Criação de corrente elétrica;
+Produção de gás hidrogênio e oxigênio;
+|
+Qual é o grupo de vertebrados que possuem penas?;
+Répteis;
+Anfíbios;
+Aves;
+Mamíferos;
+Aves;
+|
+O que significa pH neutro?;
+pH menor que 7;
+pH igual a 7;
+pH maior que 7;
+pH indeterminado;
+pH igual a 7;
+|
+Qual o principal gás produzido na fotossíntese?;
+Oxigênio;
+Dióxido de carbono;
+Nitrogênio;
+Metano;
+Oxigênio;
+|
+Qual é a unidade de medida da massa atômica?;
+Mol;
+Kilograma;
+Grama;
+Unidade de massa atômica (u);
+Unidade de massa atômica (u);
+|
+Qual o nome do pigmento responsável pela coloração da pele?;
+Melanina;
+Clorofila;
+Hemoglobina;
+Caroteno;
+Melanina;
+|
+Qual é a mudança do estado sólido para o gasoso sem passar pelo líquido?;
+Fusão;
+Evaporação;
+Sublimação;
+Condensação;
+Sublimação;
+|
+Que nome se dá à relação ecológica onde ambos os organismos se beneficiam?;
+Comensalismo;
+Parasitismo;
+Mutualismo;
+Predação;
+Mutualismo;
+|
+Qual gás é liberado na combustão completa da gasolina?;
+Oxigênio;
+Dióxido de carbono;
+Metano;
+Ácido sulfúrico;
+Dióxido de carbono;
+|
+Qual é o maior órgão do corpo humano?;
+Fígado;
+Coração;
+Pulmão;
+Pele;
+Pele;
+|
+Como é chamado o processo de separação da mistura entre ferro e enxofre?;
+Filtração;
+Destilação;
+Separação magnética;
+Decantação;
+Separação magnética;
+|
+Qual é o nome do gás absorvido pelas plantas durante a fotossíntese?;
+Oxigênio;
+Dióxido de carbono;
+Nitrogênio;
+Metano;
+Dióxido de carbono;
+|
+Qual o símbolo químico do ouro?;
+Au;
+Ag;
+Fe;
+Pb;
+Au;
+|
+Que tipo de reprodução envolve apenas um único progenitor?;
+Sexuada;
+Assexuada;
+Fecundação interna;
+Vivípara;
+Assexuada;
+|
+O que é um átomo?;
+Menor partícula de um composto químico;
+Menor partícula da matéria com propriedades químicas;
+Uma molécula complexa;
+Um elemento sintético;
+Menor partícula da matéria com propriedades químicas;
+|
+Que nome recebe o conjunto de organismos da mesma espécie que vivem em uma área?;
+Ecossistema;
+Biosfera;
+População;
+Comunidade;
+População;
+|
+Qual o gás mais abundante na atmosfera terrestre?;
+Oxigênio;
+Dióxido de carbono;
+Nitrogênio;
+Hidrogênio;
+Nitrogênio;
+|
+Qual é o hormônio responsável pelas características sexuais masculinas?;
+Estrogênio;
+Testosterona;
+Insulina;
+Progesterona;
+Testosterona;
+|
+O que significa "herbívoro"?;
+Que come carne;
+Que come plantas;
+Que come de tudo;
+Que se alimenta de resíduos;
+Que come plantas;
+|
+Qual é o principal órgão do sistema nervoso central?;
+Coração;
+Fígado;
+Cérebro;
+Pâncreas;
+Cérebro;
+|
+Qual é o nome do processo de divisão celular que forma células haploides?;
+Mitose;
+Meiose;
+Fusão;
+Transcrição;
+Meiose;
+|
+Qual das opções é um lipídio?;
+Amido;
+Glicogênio;
+Colesterol;
+Proteína;
+Colesterol;
+|
+O que significa "anfótero" em química?;
+Que reage com ácidos e bases;
+Que não reage com nada;
+Que reage apenas com bases;
+Que conduz eletricidade;
+Que reage com ácidos e bases;
+|
+Qual organela é exclusiva de células vegetais?;
+Mitocôndria;
+Cloroplasto;
+Ribossomo;
+Lisossomo;
+Cloroplasto;
+|
+Qual é o principal componente químico das membranas celulares?;
+Água;
+Fosfolipídios;
+Proteínas;
+Carboidratos;
+Fosfolipídios;
+|
+Qual elemento químico é o mais abundante no corpo humano?;
+Cálcio;
+Carbono;
+Hidrogênio;
+Oxigênio;
+Oxigênio;
+|
+Qual processo ocorre nos cloroplastos durante o dia?;
+Respiração celular;
+Fotossíntese;
+Fermentação;
+Divisão celular;
+Fotossíntese;
+|
+Qual partícula subatômica tem carga negativa?;
+Próton;
+Nêutron;
+Elétron;
+Fóton;
+Elétron;
+|
