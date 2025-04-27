@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1745715898,
+	"version": 1745728574,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -33,6 +33,10 @@
 		"images/spr_ok-sheet0.png",
 		"images/spr_quizroom-sheet0.png",
 		"images/spr_sombra-sheet0.png",
+		"media/explosão.ogg",
+		"media/gelo.ogg",
+		"media/raio.ogg",
+		"media/revenge of the jungle (usar esse chefe).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
