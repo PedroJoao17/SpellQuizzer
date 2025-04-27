@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1745729463,
+	"version": 1745730358,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -37,6 +37,7 @@
 		"media/gelo.ogg",
 		"media/raio.ogg",
 		"media/revenge of the jungle (usar esse chefe).ogg",
+		"media/ataque boss.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
