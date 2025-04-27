@@ -271,3 +271,10 @@ Emirados Árabes Unidos;
 Omã;
 Emirados Árabes Unidos;
 |
+Qual é o maior deserto do mundo?;
+Deserto do Saara;
+Deserto da Arábia;
+Deserto da Antártida;
+Deserto de Gobi;
+Deserto da Antártida;
+|
